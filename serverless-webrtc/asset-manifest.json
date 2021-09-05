@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.f6e3299b.chunk.css",
-    "main.js": "./static/js/main.113a3d94.chunk.js",
-    "main.js.map": "./static/js/main.113a3d94.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.d5d3c695.js",
-    "runtime-main.js.map": "./static/js/runtime-main.d5d3c695.js.map",
-    "static/js/2.4a6c0c2c.chunk.js": "./static/js/2.4a6c0c2c.chunk.js",
-    "static/js/2.4a6c0c2c.chunk.js.map": "./static/js/2.4a6c0c2c.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.f6e3299b.chunk.css.map": "./static/css/main.f6e3299b.chunk.css.map",
-    "static/js/2.4a6c0c2c.chunk.js.LICENSE.txt": "./static/js/2.4a6c0c2c.chunk.js.LICENSE.txt"
+    "main.css": "/serverless-webrtc/static/css/main.abe799e6.chunk.css",
+    "main.js": "/serverless-webrtc/static/js/main.27162689.chunk.js",
+    "main.js.map": "/serverless-webrtc/static/js/main.27162689.chunk.js.map",
+    "runtime-main.js": "/serverless-webrtc/static/js/runtime-main.b002e68a.js",
+    "runtime-main.js.map": "/serverless-webrtc/static/js/runtime-main.b002e68a.js.map",
+    "static/js/2.3332218e.chunk.js": "/serverless-webrtc/static/js/2.3332218e.chunk.js",
+    "static/js/2.3332218e.chunk.js.map": "/serverless-webrtc/static/js/2.3332218e.chunk.js.map",
+    "index.html": "/serverless-webrtc/index.html",
+    "static/css/main.abe799e6.chunk.css.map": "/serverless-webrtc/static/css/main.abe799e6.chunk.css.map",
+    "static/js/2.3332218e.chunk.js.LICENSE.txt": "/serverless-webrtc/static/js/2.3332218e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5d3c695.js",
-    "static/js/2.4a6c0c2c.chunk.js",
-    "static/css/main.f6e3299b.chunk.css",
-    "static/js/main.113a3d94.chunk.js"
+    "static/js/runtime-main.b002e68a.js",
+    "static/js/2.3332218e.chunk.js",
+    "static/css/main.abe799e6.chunk.css",
+    "static/js/main.27162689.chunk.js"
   ]
 }
